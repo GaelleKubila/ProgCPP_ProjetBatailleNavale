@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711535099 source:c:\users\pc\onedrive\escritorio\gaelle\cms\s6\c++\bataille_navale\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
